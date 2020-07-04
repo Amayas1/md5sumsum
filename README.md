@@ -13,3 +13,5 @@ up it.
 That's why we have here an automated test suite (thanks to [Travis
 CI](http://travis-ci.com)) that measures the speed of execution of
 submitted PRs!
+
+Please execute the project with start shell script : startInitEnv.sh, you need to install anaconda3 before run this script.
